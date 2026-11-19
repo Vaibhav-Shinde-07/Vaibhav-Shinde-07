@@ -6,18 +6,8 @@
 <img src="https://raw.githubusercontent.com/Vaibhav-Shinde-07/Vaibhav-Shinde-07/main/cybersecurity-banner.png"
      width="100%"
      alt="Vaibhav Shinde Cybersecurity Banner"/>
-
-</div>
-<div align="center">
-
-<img src="./assets/cybersecurity-banner.png"
-     width="100%"
-     alt="Vaibhav Shinde Cybersecurity Banner"/>
-
-</div>
-
-
-
+     
+<p align="center">
 
 # Hi, I'm Vaibhav Shinde 👋
 
@@ -27,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaibhav-shinde-877673437/)
 
 </div>
-
+</p>
 ---
 
 ## 👨‍💻 About Me
