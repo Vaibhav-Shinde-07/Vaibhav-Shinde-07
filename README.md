@@ -89,7 +89,7 @@ I believe in continuous learning through hands-on labs, practical security asses
 
 ## 📜 Certifications & Achievements
 
-[![Credly Badge](https://img.shields.io/badge/Credly-View_Verified_Badge-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/earner/earned/badge/9c919fae-9301-4965-8c60-bd1cc771f23d)
+[![Getting Started with Generative AI](https://img.shields.io/badge/IBM-Certified-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/earner/earned/badge/9c919fae-9301-4965-8c60-bd1cc771f23d)
 
 ---
 
