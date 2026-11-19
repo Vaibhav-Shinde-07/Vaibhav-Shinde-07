@@ -81,10 +81,8 @@ I believe in continuous learning through hands-on labs, practical security asses
 ## 📚 Currently Learning
 
 - Docker and Container Security
-- Wazuh and Security Monitoring
 - AI & LLM Application Security
-- Python-based Threat Detection
-- DevSecOps and Cloud Security
+- DevSecOps 
 
 ---
 
