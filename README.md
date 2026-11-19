@@ -95,19 +95,6 @@ I believe in continuous learning through hands-on labs, practical security asses
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Shinde-07&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Shinde-07&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=Vaibhav-Shinde-07&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
