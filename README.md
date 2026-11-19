@@ -9,8 +9,6 @@
      
 <p align="center">
 
-# Hi, I'm Vaibhav Shinde 👋
-
 ### Cybersecurity Engineer | VAPT | SOC | GRC | AI Security
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Vaibhav-Shinde-07)
@@ -18,7 +16,6 @@
 
 </div>
 </p>
----
 
 ## 👨‍💻 About Me
 
