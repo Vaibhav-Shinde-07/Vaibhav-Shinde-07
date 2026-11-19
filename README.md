@@ -125,6 +125,6 @@ I believe in continuous learning through hands-on labs, practical security asses
 
 ### 💡 "Learn. Build. Secure. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F54,50:005BBA,100:00A6FB&height=100&section=footer" width="100%"/>
 
 </div>
