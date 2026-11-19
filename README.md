@@ -90,28 +90,13 @@ I believe in continuous learning through hands-on labs, practical security asses
 ## 📜 Certifications & Achievements
 
 
-
-
-
-
-
-
-<div style="display:flex; width:75%; border:1px solid #ddd; border-radius:5px; overflow:hidden; font-size:12px;">
-  <div style="background:#052FAD; color:white; width:20%; padding:9px; text-align:center;">
-    <b>IBM</b>
-  </div>
-  <div style="background:#E5E7EB; color:#111; width:55%; padding:9px; text-align:center;">
-    <b>Getting Started with Generative AI</b>
-  </div>
-  <a href="https://www.credly.com/earner/earned/badge/9c919fae-9301-4965-8c60-bd1cc771f23d"
-     style="background:#238636; color:white; width:25%; padding:9px; text-align:center; text-decoration:none;">
-    <b>CLICK TO OPEN ↗</b>
+<p align="left">
+  <a href="https://www.credly.com/earner/earned/badge/9c919fae-9301-4965-8c60-bd1cc771f23d">
+    <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GETTING_STARTED_WITH_GENERATIVE_AI-808080?style=flat-square"/>
+    <img src="https://img.shields.io/badge/CLICK_TO_OPEN-238636?style=flat-square"/>
   </a>
-</div>
-
-
-
-
+</p>
 
 
 ---
