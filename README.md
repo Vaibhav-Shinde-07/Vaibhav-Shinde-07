@@ -1,14 +1,12 @@
 
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b2942,100:0066cc&height=200&section=header&text=Vaibhav%20Shinde&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20VAPT%20%7C%20SOC%20%7C%20GRC&descAlignY=60&descSize=18" width="100%"/>
+<img src="./assets/cybersecurity-banner.gif"
+     width="100%"
+     alt="Vaibhav Shinde - Cybersecurity Banner"/>
 
 </div>
 
-<div align="right">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=900&color=00FF88&background=0D111700&vCenter=true&width=420&height=100&lines=%24+nmap+-sV+target.com;Scanning+ports...;Checking+firewall...;Monitoring+network...;Security+Status%3A+Active" />
-</div>
 
 
 # Hi, I'm Vaibhav Shinde 👋
