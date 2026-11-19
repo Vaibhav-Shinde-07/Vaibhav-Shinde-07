@@ -110,7 +110,7 @@ I believe in continuous learning through hands-on labs, practical security asses
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vaibhav--Shinde--07-black?style=for-the-badge&logo=github)](https://github.com/Vaibhav-Shinde-07)
 
-[![Email](https://img.shields.io/badge/GitHub-Vaibhav--Shinde--07-black?style=for-the-badge&logo=github)](https://github.com/Vaibhav-Shinde-07)
+[![Email](https://img.shields.io/badge/Email-Vaibhav--Shinde--07-black?style=for-the-badge&logo=Email)](https://github.com/Vaibhav-Shinde-07)
 </div>
 
 <div align="center">
