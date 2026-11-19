@@ -89,9 +89,13 @@ I believe in continuous learning through hands-on labs, practical security asses
 
 ## 📜 Certifications & Achievements
 
-- Add your completed cybersecurity certifications here.
-- Add your professional training and achievements here.
-- Add your relevant learning credentials here.
+<div align="center">
+
+<a href="https://www.credly.com/earner/earned/badge/9c919fae-9301-4965-8c60-bd1cc771f23d">
+  <img src="https://images.credly.com/size/340x340/images/9c919fae-9301-4965-8c60-bd1cc771f23d/image.png" width="150" alt="Credly Certification Badge"/>
+</a>
+
+</div>
 
 ---
 
@@ -104,6 +108,7 @@ I believe in continuous learning through hands-on labs, practical security asses
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vaibhav--Shinde--07-black?style=for-the-badge&logo=github)](https://github.com/Vaibhav-Shinde-07)
 
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vaibhavshinde7123@gmail.com)
 </div>
 
 <div align="center">
