@@ -1,5 +1,13 @@
 
 
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vaibhav-Shinde-07/Vaibhav-Shinde-07/main/cybersecurity-banner.png"
+     width="100%"
+     alt="Vaibhav Shinde Cybersecurity Banner"/>
+
+</div>
 <div align="center">
 
 <img src="./assets/cybersecurity-banner.png"
