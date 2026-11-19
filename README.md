@@ -1,11 +1,13 @@
 
+
 <div align="center">
 
-<img src="./assets/cybersecurity-banner.gif"
+<img src="./assets/cybersecurity-banner.png"
      width="100%"
-     alt="Vaibhav Shinde - Cybersecurity Banner"/>
+     alt="Vaibhav Shinde Cybersecurity Banner"/>
 
 </div>
+
 
 
 
