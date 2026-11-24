@@ -92,7 +92,7 @@ I believe in continuous learning through hands-on labs, practical security asses
 
 <p>
   <strong><big>IBM – Getting Started with Generative AI ➜ </big></strong>
-  <a href="https://www.credly.com/earner/earned/badge/9c919fae-9301-4965-8c60-bd1cc771f23d" style="text-decoration:none; color:#0969DA;">
+  <a href="https://www.credly.com/go/9wcZMkW4WLxVVXWv9BDIHA" style="text-decoration:none; color:#0969DA;">
     <big>Click to Open</big>
   </a>
 </p>
@@ -100,6 +100,12 @@ I believe in continuous learning through hands-on labs, practical security asses
 <p>
   <strong><big>Google – Cybersecurity Professional Certificate ➜ </big></strong>
   <a href="https://www.credly.com/earner/earned/badge/b8d36001-4aab-40bf-86e9-8b18c0d42701" style="text-decoration:none; color:#0969DA;">
+    <big>Click to Open</big>
+  </a>
+</p>
+<p>
+  <strong><big>IBM – Governance, Risk, Compliance and Data Privacy ➜ </big></strong>
+  <a href="https://www.credly.com/go/ffHXrTHqO8bAldFUki5oQg" style="text-decoration:none; color:#0969DA;">
     <big>Click to Open</big>
   </a>
 </p>
