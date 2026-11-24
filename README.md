@@ -105,7 +105,7 @@ I believe in continuous learning through hands-on labs, practical security asses
 </p>
 <p>
   <strong><big>IBM – Governance, Risk, Compliance and Data Privacy ➜ </big></strong>
-  <a href="https://www.credly.com/go/ffHXrTHqO8bAldFUki5oQg" style="text-decoration:none; color:#0969DA;">
+  <a href="https://www.credly.com/badges/4bda9a13-564f-47b8-9925-10bd379bfacc" style="text-decoration:none; color:#0969DA;">
     <big>Click to Open</big>
   </a>
 </p>
