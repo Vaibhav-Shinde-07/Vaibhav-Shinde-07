@@ -99,7 +99,7 @@ I believe in continuous learning through hands-on labs, practical security asses
 
 <p>
   <strong><big>Google – Cybersecurity Professional Certificate ➜ </big></strong>
-  <a href="https://www.credly.com/earner/earned/badge/b8d36001-4aab-40bf-86e9-8b18c0d42701" style="text-decoration:none; color:#0969DA;">
+  <a href="https://www.credly.com/go/VNnGWN9V" style="text-decoration:none; color:#0969DA;">
     <big>Click to Open</big>
   </a>
 </p>
