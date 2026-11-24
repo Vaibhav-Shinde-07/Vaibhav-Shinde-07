@@ -108,7 +108,12 @@ I believe in continuous learning through hands-on labs, practical security asses
     <big>Click to Open</big>
   </a>
 </p>
-
+<p>
+  <strong><big>Udemy – Python Programming for Beginners ➜ </big></strong>
+  <a href="ude.my/UC-bfba6dc6-b194-4fd6-9e78-b3334667de86" style="text-decoration:none; color:#0969DA;">
+    <big>Click to Open</big>
+  </a>
+</p>
 
 ---
 
